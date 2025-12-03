@@ -1,0 +1,94 @@
+img{
+    border-radius: 20px;
+    width: 20%;
+    
+}
+nav {
+    text-align: center;
+    background-color: black;
+    margin: 30px;
+    padding: 15px;
+   
+
+}
+nav a{
+    color:white;
+    text-decoration: none;
+    padding: 20px;
+    overflow: hidden;
+    margin: 30px;
+}
+div img{
+    width: 80%;
+    display: flex;
+    border-radius: 20px;
+    display: block;
+    margin: 0 auto;
+    
+}
+.p1{
+    text-shadow:10px 0px 0px 10px  ;
+    font-size: 25px;
+    text-align: center;
+}
+
+.MenuH a:hover{
+   background-color: rgb(199, 195, 136);
+   color: rgb(3, 3, 3);
+}
+
+.p2{
+    text-align: left;
+    background-color: rgb(179, 226, 103);
+    margin: 0px;
+    padding: 20px;
+    font-size: 20px;
+    width: 20%;
+}
+.mini1{
+    width: 90%;
+    display: flex;
+    border-radius: 20px;
+    display: block;
+    text-align: right;
+   
+}
+.p4{
+    text-align: right;
+}
+
+footer{
+    background-color:rgb(198, 224, 83) ;
+    font-size: 20px;
+}
+.mini2{
+    width: 90%;
+    display: flex;
+    border-radius: 20px;
+    display: block;
+    text-align: left;
+}
+
+.p5{
+    text-align: right;
+}
+.nombre{
+    text-align: left;
+
+}
+section{
+   background-color: rgb(175, 173, 148);
+   border: solid 5px rgb(175, 173, 148);
+   width: 75%;
+   margin: auto;
+   padding: 15px;
+
+
+}
+
+section h1{
+   color: rgb(0, 0, 0);
+   text-align: left;
+   padding: 10px;
+}
+
